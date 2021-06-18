@@ -1,5 +1,13 @@
-.App {
-  text-align: center;
+
+  @supports(object-fit: cover){
+    .App {
+      text-align: center;
+     background-color: #431b93;
+      /* background-image: url('https://static8.depositphotos.com/1160465/822/i/600/depositphotos_8228852-stock-photo-full-color-old-wood-room.jpg'); */
+      height: 5rem;
+      object-fit: cover;
+      object-position: center center;
+    }
 }
 
 .App-logo {
@@ -14,16 +22,40 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color:midnightblue ;
+/*   min-height: 100vh; */
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  margin-left: 18rem;
+  
 }
 
+.App-title{
+  color:black
+}
+.App-Cuadradito{
+  position:relative;
+  margin-top: 8rem;
+  margin-left: 1rem;
+}
+
+.App-nav {
+  background-color: white
+}
+ .App-Cuadrado{
+  position:relative;
+  bottom:8rem;
+  right:50rem;
+  background-color: white;
+  color:black;
+  display:flex;
+  flex-direction: column;
+  
+}
 .App-link {
   color: #61dafb;
 }

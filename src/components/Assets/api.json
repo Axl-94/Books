@@ -1,0 +1,35 @@
+[{ 
+    "id":1,
+    "title": "La primera presidente, Isabel Peron",
+    "subtitle": "Una mujer en la tormeta",                        
+    "paragraph": "Relato de la enigmática vida de María Estela Martínez de Perón, la primera presidente argentina. María Sáenz Quesada revela la historia de la mujer que, a partir de su encuentro con Perón en Panamá, nunca más lo abandonó. Una profunda investigación histórica y multiplicidad de testimonios documentan los años que van desde el exilio, el regreso a la Argentina y el último mandato del General con su mujer como vicepresidente hasta el breve gobierno de `Isabelita` (1974-1976) al frente de un país que estallaba en conflictos, acompañada por emblemas como el mítico José López Rega.",
+    "image": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/608741.jpg"
+},
+{ 
+    "id":2,
+    "title": "Harry Potter y la Camara secreta",
+    "subtitle": "La camara de los secretos ha sido abierta, enemigos del heredero temer",                        
+    "paragraph": "Harry, Ron & Hermione se enfrentaran con peligros inimaginables cuando la camara de los secretos fue abierta liberando todo el mal que en ella habita",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_829115-MLA31070033607_062019-O.webp"
+},
+{ 
+    "id":3,
+    "title": 714142157,
+    "subtitle": "TESTMLVPNYHJ",                        
+    "paragraph": "qatest9036",
+    "image": "https://m.media-amazon.com/images/I/51YADxKmwTL.jpg"
+},
+{ 
+    "id":4,
+    "title": 714142157,
+    "subtitle": "TESTMLVPNYHJ",                        
+    "paragraph": "qatest9036",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_602387-MLA30676900654_052019-O.webp"
+},{ 
+    "id":5,
+    "title": 714142157,
+    "subtitle": "TESTMLVPNYHJ",                        
+    "paragraph": "qatest9036",
+    "image": "https://http2.mlstatic.com/D_NQ_NP_627539-MLA29068978352_122018-O.webp"
+}]
+
